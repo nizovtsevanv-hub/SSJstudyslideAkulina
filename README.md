@@ -1,0 +1,2 @@
+# SSJstudyslideAkulina
+TechEngStudyInMotionSlides
